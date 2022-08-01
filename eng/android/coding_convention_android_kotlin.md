@@ -3,14 +3,14 @@
 Document built on references and [Kotlin Code Style Guidelines](https://kotlinlang.org/docs/reference/coding-conventions.html) version 1.4.21
 
 # Kotlin Guideline
-1. [Source code organization](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#source-code-organization)
-2. [Naming rules](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#naming-rules)
-3. [Formatting](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#formatting)
-4. [Modifiers](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#modifiers)
-5. [Trailing commas](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#trailing-commas)
-6. [Documentation comments](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#documentation-comments)
-7. [Avoiding redundant constructs](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#avoiding-redundant-constructs)
-8. [Idiomatic use of language features](https://github.com/framgia/coding-standards/blob/master/en/android/coding_convention_android_kotlin.md#idiomatic-use-of-language-features)
+1. [Source code organization](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#source-code-organization)
+2. [Naming rules](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#naming-rules)
+3. [Formatting](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#formatting)
+4. [Modifiers](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#modifiers)
+5. [Trailing commas](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#trailing-commas)
+6. [Documentation comments](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#documentation-comments)
+7. [Avoiding redundant constructs](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#avoiding-redundant-constructs)
+8. [Idiomatic use of language features](https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md#idiomatic-use-of-language-features)
 
 ## Source code organization
 
